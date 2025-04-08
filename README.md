@@ -1,5 +1,5 @@
 # 💫 About Me:
-A enthusiast of programming and cybersecurity and learning about Advance Python .<br>Learning Prompt Engineering.<br> <br> 
+An Enthusiast Of Programming and Cybersecurity and learning about Advance Python .<br>Learning Prompt Engineering.<br> <br> 
 
 
 ## 🌐 Socials:
